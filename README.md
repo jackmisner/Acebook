@@ -98,3 +98,12 @@ You should now be able to open your browser and go to
 
 Then, after signing up, you should be able to log in by going to
 `http://localhost:5173/login`.
+
+## 👥 Contributors
+- [@jackmisner](https://github.com/jackmisner)
+- [@amritpalc](https://github.com/AmritpalC)
+- [@aysinakpinar](https://github.com/aysinakpinar)
+- [@Michal-P-1](https://github.com/Michal-P-1)
+- [@AMcGill3](https://github.com/AMcGill3)
+- [@zameermohamed](https://github.com/zameermohamed)
+- [@ziaxgit](https://github.com/ziaxgit)
