@@ -20,10 +20,10 @@ If you haven't already, make sure you have node and NVM installed.
    ```
    Then follow the instructions to update your `~/.bash_profile`.
 2. Open a new terminal
-3. Install the latest version of [Node.js](https://nodejs.org/en/), (`20.5.0` at
+3. Install the latest version of [Node.js](https://nodejs.org/en/), (`24.0.2` at
    time of writing).
    ```
-   nvm install 20
+   nvm install 24
    ```
 
 ### 🛠️ Set up the project
