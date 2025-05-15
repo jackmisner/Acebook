@@ -8,10 +8,6 @@ This repo contains two applications:
 These two applications will communicate through HTTP requests, and need to be
 run separately.
 
-### Documentation
-
-[More documentation of the codebase and its architecture can be found here.](./DOCUMENTATION.md)
-
 ## 🚀 Quickstart
 
 ### 📥 Install Node.js
