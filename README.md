@@ -11,13 +11,6 @@ run separately.
 ### Documentation
 
 [More documentation of the codebase and its architecture can be found here.](./DOCUMENTATION.md)
-It's recommended you all read the suggested docs _after making sure the whole
-setup below worked for everyone_. Then work together on a diagram describing how
-the application works.
-
-### Card wall
-
-[Trello Board](https://trello.com/b/Hq0zHnAt/acebook-team-b)
 
 ## 🚀 Quickstart
 
@@ -37,7 +30,7 @@ If you haven't already, make sure you have node and NVM installed.
    nvm install 20
    ```
 
-### 🛠️ Set up your project
+### 🛠️ Set up the project
 
 1. Fork this repository
 2. Clone the fork to your local machine
@@ -66,7 +59,7 @@ If you haven't already, make sure you have node and NVM installed.
 
 ### ⚙️ Setting up environment variables
 
-We need to create two `.env` files, one in the frontend and one in the api.
+You will need to create two `.env` files, one in the frontend and one in the api.
 
 #### Frontend
 
